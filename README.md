@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=hwanseok&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=hwanseok&fontColor=d5e6f5&color=timeGradient&animation=fadeIn&fontSize=40)
+
 ### 💭 Want to be..
 Frontend Developer
 
