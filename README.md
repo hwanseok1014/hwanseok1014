@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=hwanseok&fontColor=d5e6f5&color=timeGradient&animation=fadeIn&fontSize=40)
-
 ### 💭 Want to be..
 Frontend Developer
 
@@ -18,17 +16,11 @@ Frontend Developer
 <br>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 </div>
 
 
 
 
-### 🖋️ Studying
-<div>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
-</div>
 
 
 
