@@ -5,7 +5,7 @@ Frontend Developer
 - **Hankuk University of Foreign Studies CSE** (2020.03~ )
 - **Codeit 1st PowerBoost FE** (2024.04 ~ 2025.02)
 - **It's Time 7th FE** (2025.03~ 2025.07)
-- **Undergraduate Researcher MVP LAB** , Yosei University (2025.07~ )
+- **Undergraduate Researcher** -  MVP LAB , Yosei University (2025.07~ )
 - **Kusitms 32TH FE** (2025.08~)
 
 
